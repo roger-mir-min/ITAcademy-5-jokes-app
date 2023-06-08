@@ -1,5 +1,5 @@
 # ITAcademy-5-jokes-app
-A simple app that displays jokes (click "Següent acudit") and lets the user rate them (click the emoji that best reflects your opinion on the joke, then click "Següent acudit" again to submit your opinion and to see the next joke.
+A simple app that displays jokes (click "Següent acudit") and lets the user rate them (click the emoji that best reflects your opinion on the joke, then click "Següent acudit" again to submit your opinion and to see the next joke). You can see it stored in the localstorage.
 
 It calls 4 different APIs:
 <br>
