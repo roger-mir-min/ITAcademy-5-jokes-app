@@ -5,7 +5,7 @@ A simple app that displays jokes and lets the user rate them.
 Result of Sprint 5 at IT Academy.
 
 ## Stack
-HTML, CSS, Javascript.
+HTML, CSS, Typescript.
 
 ## Usage
 Start by clicking "Següent acudit". Read the displayed joke. Rate clicking the emoji that better reflects your opinion on the joke. Then click "Següent acudit" again to submit your opinion and to see the next joke. You can see it stored in the localstorage.<br>
